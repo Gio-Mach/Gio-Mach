@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="370" src="https://64.media.tumblr.com/8da10236cb57fdb63e762096e0bf69c6/4d25e92b82012624-89/s400x600/64a5bcbf97524d5900f438d550beeb3fa6ee60db.gifv"  />
 
 ###
@@ -42,17 +40,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Gio-Mach/Gio-Mach/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h4 align="left">📌 Onde me encontrar:</h4>
-
-###
-
-<div align="left">
-  <a href="giovana.machado@unisantos.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
