@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">> 🎓 Estudando Ciência da Computação na Universidade Católica de Santos (Unisantos).<br>> 📖 Em busca de aprimorar minhas habilidades em HTML, CSS e JavaScript.<br>>🌱 Sinta-se livre para me perguntar sobre tudo. Estou sempre aberta para aprender mais.</p>
+<p align="left">> 🎓 Estudando Ciência da Computação na Universidade Católica de Santos (Unisantos).<br>> 📖 Em busca de aprimorar minhas habilidades em HTML, CSS e JavaScript.<br>>🌱 Sinta-se livre para me perguntar sobre algo do curso. Estou sempre aberta para aprender mais.</p>
 
 ###
 
@@ -21,7 +21,8 @@
 
 ###
 
-<h3 align="left">⚙️Skill:</h3>
+<h3 align="left">
+⚙️Skill:</h3>
 
 ###
 
