@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="370" src="https://64.media.tumblr.com/8da10236cb57fdb63e762096e0bf69c6/4d25e92b82012624-89/s400x600/64a5bcbf97524d5900f438d550beeb3fa6ee60db.gifv"  />
+<img align="right" height="370" src="https://64.media.tumblr.com/6f7ce3610dab088274c05adc3eebbe62/0e4826b324201f71-25/s250x400/f952daf1879fae90b9e77ab0b394c8a2cbccaa86.gifv"  />
 
 ###
 
-<p align="left">> 🎓 Estudando Ciência da Computação na Universidade Católica de Santos (Unisantos).<br>> 
+<p align="left">> 🎓 Estudando Ciência da Computação na Universidade Católica de Santos (Unisantos).<br>
 
 ###
 
