@@ -2,7 +2,6 @@
 
 ###
 
-<img align="right" height="350" src="https://64.media.tumblr.com/889ab7bc0037bf513c297a06f2234a3f/0dc5d07990e87f1c-fb/s250x400/0081d449477e6f969f5c7cd552920965554a68d5.gifv"  />
 
 ###
 
