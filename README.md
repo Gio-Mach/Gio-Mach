@@ -19,12 +19,7 @@
 
 <h2 align="left"></h2>
 
-###
 
-<h3 align="left">
-⚙️Skill:</h3>
-
-###
 ###
 
 <img src="https://raw.githubusercontent.com/Gio-Mach/Gio-Mach/output/snake.svg" alt="Snake animation" />
